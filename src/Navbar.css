@@ -1,0 +1,21 @@
+.nav{
+    color: rgba(95, 92, 92, 0.845);
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 30px;
+    justify-content: space-between;
+    background-color:rgb(47, 147, 147);
+    padding-left: 40px;
+    padding-right: 40px;
+  
+}
+.elements{
+    display: flex;
+    gap: 30px;
+    color: white;
+}
+.line{
+    text-decoration: none;
+    color: white;
+}
